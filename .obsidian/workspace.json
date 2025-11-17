@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "9c2d797604215107",
+        "id": "6c00d71eeb9bfadb",
         "type": "tabs",
         "children": [
           {
-            "id": "8a32cce4e17162f3",
+            "id": "f7efe1e1569db2b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comandos Utiles/Comandos Terminal Macos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comandos Terminal Macos"
+            }
+          },
+          {
+            "id": "d367eb910005b782",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,10 +183,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "8a32cce4e17162f3",
+  "active": "f7efe1e1569db2b3",
   "lastOpenFiles": [
-    "Bienvenido.md",
     "Comandos Utiles/Comandos Terminal.md",
+    "Comandos Utiles/Comandos Terminal Macos.md",
+    "Sin título.base",
+    "Bienvenido.md",
     "Comandos Utiles/Sin título.canvas",
     "Comandos Utiles"
   ]
