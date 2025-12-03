@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comandos Utiles/Comandos Terminal.md",
+                "file": "Arquitecturas/Estructura Midas Mobile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comandos Terminal"
+              "title": "Estructura Midas Mobile"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -160,19 +160,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "8a32cce4e17162f3",
   "lastOpenFiles": [
-    "Bienvenido.md",
+    "Arquitecturas/Diagrama.md",
     "Comandos Utiles/Comandos Terminal.md",
+    "Comandos/Dotnet.md",
+    "Comandos/Android.md",
+    "Bienvenido.md",
     "Comandos Utiles/Sin título.canvas",
     "Comandos Utiles"
   ]
