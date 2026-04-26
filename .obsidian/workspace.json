@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9c2d797604215107",
+        "id": "b96890ff2e115fb0",
         "type": "tabs",
         "children": [
           {
-            "id": "8a32cce4e17162f3",
+            "id": "92da0f0dc6450b0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitecturas/Estructura Midas Mobile.md",
+                "file": "ContextoIA WebApiERP/structure_summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estructura Midas Mobile"
+              "title": "structure_summary"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -160,22 +160,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
-  "active": "8a32cce4e17162f3",
+  "active": "92da0f0dc6450b0a",
   "lastOpenFiles": [
-    "Arquitecturas/Diagrama.md",
-    "Comandos Utiles/Comandos Terminal.md",
-    "Comandos/Dotnet.md",
-    "Comandos/Android.md",
+    "ContextoIA WebApiERP/marian.md",
+    "ContextoIA WebApiERP/structure_summary.md",
+    "Git/Cosas para commits.md",
+    "Tablas/Sin título.base",
+    "Sin título.base",
+    "Tablas",
+    "Hola Base.md",
+    "Sin título.canvas",
+    "Sin título 1.base",
+    "ContextoIA WebApiERP",
+    "Intentemos hacer magia con esta mierda Identity_Test.md",
+    "Con Pablonga.md",
     "Bienvenido.md",
+    "Keys/Keys para repos.md",
+    "Comandos Utiles/Comandos Terminal.md",
+    "Notas Rapidas para Pasarella de pago.md",
+    "Comandos/Android.md",
+    "MD_WebAPI/Sincronizacion_ReactNative_DotNet.md",
+    "MD_WebAPI/SETUP_SUMMARY.md",
+    "MD_WebAPI/README_DEBUG_SETUP.md",
+    "MD_WebAPI/DEBUG_VS_RUN.md",
+    "MD_WebAPI/ARCHITECTURE.md",
+    "Arquitecturas/sincronizacion-backend.md",
+    "Arquitecturas/sincronizacion-manual.md",
+    "Arquitecturas/article-synchronization.md",
+    "MD_WebAPI",
+    "Arquitecturas/Sync.md",
+    "Comandos/Dotnet.md",
+    "Git",
+    "Keys",
+    "Arquitecturas/Estructura Midas Mobile.md",
+    "Arquitecturas/Diagrama.md",
     "Comandos Utiles/Sin título.canvas",
     "Comandos Utiles"
   ]

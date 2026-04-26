@@ -105,3 +105,15 @@ npx eas-cli build --platform android --profile preview --local --clear-cache
 ```jsx
 npx eas-cli build --platform android --profile preview --local --clear-cache --output nombre_apk.apk
 ```
+
+## 🔹Es necesario si es bare flow (build de produccion)
+`npx expo prebuild`
+Esto va a crear la nueva build android
+
+## 🔹 Mejorado para que no instale y sea solo de Android
+`npx expo prebuild --platform android --no-install`
+
+## Build de desarrollo
+`npx expo run:android`
+
+

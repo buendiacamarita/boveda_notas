@@ -1,0 +1,5 @@
+- **`fix:`**: Corrige un bug.
+- **`feat:`**: Introduce una nueva funcionalidad.
+- **`refactor:`**: Mejora el código interno sin cambiar su comportamiento.
+- **`docs:`**: Cambios solo en la documentación.
+- **`style:`**: Cambios estéticos o de formato (espacios, comillas).
